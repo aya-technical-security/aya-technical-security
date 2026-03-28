@@ -1,4 +1,3 @@
-◎ バッジ（見た目強化）
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 ![Zabbix](https://img.shields.io/badge/Zabbix-red)
