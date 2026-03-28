@@ -1,10 +1,12 @@
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 ![Zabbix](https://img.shields.io/badge/Zabbix-red)
+![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware)
+![ESXi](https://img.shields.io/badge/ESXi-FF9900)
 
 # 👩‍💻 明夜（Aya）
 
-Infrastructure engineer focusing on server design, monitoring, and troubleshooting.
+Infrastructure engineer specializing in server design, monitoring, and troubleshooting in Windows/Linux environments.
 
 インフラエンジニア志望  
 Windows / Linux / 仮想化 / 監視 / セキュリティ
