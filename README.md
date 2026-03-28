@@ -1,7 +1,7 @@
 ![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
 ![Zabbix](https://img.shields.io/badge/Zabbix-red)
-![VMware](https://img.shields.io/badge/VMware-607078?logo=vmware)
+![VMware](https://img.shields.io/badge/VMware-607078?)
 ![ESXi](https://img.shields.io/badge/ESXi-FF9900)
 
 # 👩‍💻 明夜（Aya）
