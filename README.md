@@ -1,4 +1,11 @@
+◎ バッジ（見た目強化）
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows)
+![Zabbix](https://img.shields.io/badge/Zabbix-red)
+
 # 👩‍💻 明夜（Aya）
+
+Infrastructure engineer focusing on server design, monitoring, and troubleshooting.
 
 インフラエンジニア志望  
 Windows / Linux / 仮想化 / 監視 / セキュリティ
