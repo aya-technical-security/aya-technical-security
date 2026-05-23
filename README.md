@@ -8,7 +8,7 @@
 
 Infrastructure engineer specializing in server design, monitoring, and troubleshooting in Windows/Linux environments.
 
-インフラエンジニア志望  
+インフラエンジニア  
 Windows / Linux / 仮想化 / 監視 / セキュリティ
 
 ---
